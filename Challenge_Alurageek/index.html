@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge AluraGeek</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="js/main.js" defer></script>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="/imagenes/alura.png" alt="Logo AluraGeek">
+        </div>
+    </header>
+    <main>
+        <section id="productos">
+            <h1>Mis Productos</h1>
+            <div id="productContainer">
+                <p>No se han agregado productos.</p>
+            </div>
+        </section>
+        <section id="formulario">
+            <h1>Agregar Producto</h1>
+            <form id="productForm">
+                <div class="form-group">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre" required>
+                </div>
+                <div class="form-group">
+                    <label for="precio">Precio:</label>
+                    <input type="number" id="precio" name="precio" required>
+                </div>
+                <div class="form-group">
+                    <label for="imagen">Imagen URL:</label>
+                    <input type="url" id="imagen" name="imagen" required>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Agregar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <img src="/imagenes/alura.png" alt="Logo AluraGeek">
+        <p>Desarrollado por Daniel Jerónimo</p>
+        <p>2024</p>
+    </footer>
+    <script src="js/app.js" type="module"></script>
+</body>
+</html>

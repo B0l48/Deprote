@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "id": "f77f",
+      "nombre": "Playera FC Barcelona",
+      "precio": "2699",
+      "imagen": "https://www.innovasport.com/medias/jersey-nike-fc-barcelona-tercero-2324-match-is-DX9756-487-1.jpg?context=bWFzdGVyfGltYWdlc3wxNDk4NzR8aW1hZ2UvanBlZ3xpbWFnZXMvaGU4L2hlMC8xMjA0MDIyMjM0MzE5OC5qcGd8YTQzOGI3NWQ4ZDcwY2FiZDMwMDcyNjM5ODk3MDFjMGZmM2JiMzk0Yzk5YmY1MmU2NjE3NGE5NGMyYWQxYjY1Yw"
+    },
+    {
+      "id": "7796",
+      "nombre": "Playera Argentina",
+      "precio": "1899",
+      "imagen": "https://www.innovasport.com/medias/jersey-adidas-argentina-local-2024-is-IP8409-1.jpg?context=bWFzdGVyfGltYWdlc3w4MTc5MHxpbWFnZS9qcGVnfGltYWdlcy9oODQvaDIxLzEyNTA4NjI0NDUzNjYyLmpwZ3w2YzZlZDQzZTQzNTBiYmFkYTg0ZjA4OGNhZmNjM2FhMzUwMWFjMWY3YTMxNTE2YTgxMDFkZTIwYWU1ZDYyZjRi"
+    },
+    {
+      "id": "cec6",
+      "nombre": "Playera Real Madrid",
+      "precio": "2699",
+      "imagen": "https://www.innovasport.com/medias/jersey-adidas-real-madrid-local-2324-authentic-is-IA5139-1.jpg?context=bWFzdGVyfGltYWdlc3w5NjUzfGltYWdlL2pwZWd8aW1hZ2VzL2hhNi9oNzkvMTE4NjExODAyODQ5NTguanBnfDg2YzJhNjY0YWUyMWFjYjRmNTgzODZkZmE0MWZjMWQxMmU2MDAxNDRiOTliMWNmMmY2MzAwZjNjMmIzMTA1ZTQ"
+    },
+    {
+      "id": "0338",
+      "nombre": "Playera Tigres UANL",
+      "precio": "1899",
+      "imagen": "https://www.innovasport.com/medias/IS-IP8776-1.jpg?context=bWFzdGVyfGltYWdlc3wyMDIwM3xpbWFnZS9qcGVnfGltYWdlcy9oMDUvaGYwLzEyMzY2NzU1OTU0NzE4LmpwZ3xmN2YxNTdmNjNmMDQ0MmExMzlmYWJjYTIyYWNiYjUxMjRiNmZmOGE1NTAyYmE0Y2FkZjdkOWUzMDc3OTYwZjI5"
+    },
+    {
+      "id": "6c1b",
+      "nombre": "Playera México",
+      "precio": "2699",
+      "imagen": "https://www.innovasport.com/medias/jersey-adidas-seleccion-nacional-de-mexico-local-2024-authentic-is-IP6379-1.jpg?context=bWFzdGVyfGltYWdlc3wxMzI0OHxpbWFnZS9qcGVnfGltYWdlcy9oMzUvaDU1LzEyNTA5NDAzMDU0MTEwLmpwZ3wzODE4ODMyYmRhODA5OTdlMzE0ODI3MTVlZmQ4ZTc2YzRmZGMwYjg2NzFiYWI0ZmU1OGE5MDRlNTYwMTQ3NDZh"
+    },
+    {
+      "id": "4809",
+      "nombre": "Playera Rayados ",
+      "precio": "1799",
+      "imagen": "https://www.innovasport.com/medias/IS-763531-01-1.jpg?context=bWFzdGVyfGltYWdlc3wxNzU4NHxpbWFnZS9qcGVnfGltYWdlcy9oMWUvaDVhLzEyMjc5ODk5NzUwNDMwLmpwZ3xlYTAyOWE4MDMxMWI1Yjg0ZDA4MTBlMWZiNjBhMmUzYTAzMDQxNTdiYzMyMDEyYjRlZmQ2Yjk1N2I0M2MyZWEw"
+    }
+  ]
+}
